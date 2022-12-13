@@ -4,5 +4,5 @@ You lost?
 
 ### Demo
 
-Click [here](https://chamanbawa.github.io/map-tracker/) Find yourself. 
+Click [here](https://chamanbawa.github.io/GPS-Tracker/) Find yourself. 
 
